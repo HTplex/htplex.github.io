@@ -1,10 +1,11 @@
 # Welcome
 
-this is HT's github page
+this is HT's github page.
 
-I'm just going to put a bunch of garbarge here.
+I'm just going to put a bunch of garbarge here. Some of them is useful, because I keep StackOverflowing it.
 
-Some of them is useful, because i keep StackOverflowing it.
+Good luck.
 
-good luck.
+## Table of Contents
+1. [python snippets](/python_snip)
 

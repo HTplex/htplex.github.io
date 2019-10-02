@@ -1,4 +1,5 @@
-title: knowledge garbage can
+name: knowledge garbage can
+title: null
 theme: jekyll-theme-hacker
 github:
   is_project_page: false

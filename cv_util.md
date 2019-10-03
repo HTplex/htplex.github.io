@@ -18,3 +18,5 @@ def show_img_np(np_array, size=20, save=False, cmap='gray'):
     else:
         plt.show()
 ```
+
+[home](/index/)

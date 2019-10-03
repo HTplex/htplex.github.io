@@ -8,9 +8,11 @@ Good luck.
 
 ## Table of Contents
 
-1. [python snippets](/python_snip)
+1. [random python snippets](/python_snip)
 
 1. [cv snippets](/cv_util)
+
+1. [file snippets](/file_util/)
 
 1. [random stackoverflow](/stackoverflow)
 

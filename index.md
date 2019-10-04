@@ -12,7 +12,7 @@ Good luck.
 
 1. [cv snippets](/cv_util)
 
-1. [file snippets](/file_util/)
+1. [file snippets](/file_util)
 
 1. [random stackoverflow](/stackoverflow)
 

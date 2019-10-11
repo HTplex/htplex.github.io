@@ -14,5 +14,8 @@ Good luck.
 
 1. [file snippets](/file_util)
 
+1. [deploy snippets](/deploy_util)
+
 1. [random stackoverflow](/stackoverflow)
+
 

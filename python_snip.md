@@ -11,5 +11,10 @@ datetime.datetime.today().isoformat()
 ```
 ```
 ### String
+String formatting
+```python
+{.2f}
+{:=>30}
+```
 
-[home](/index/)
+[home](/index)

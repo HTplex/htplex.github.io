@@ -18,12 +18,26 @@ with open(filepath) as fp:
         print(string)
 ```
 
+### save and read txt
+```python
+# save
+import json
+
+with open('data.txt', 'w+') as fp:
+    fp.write(string)
+
+# load
+with open('data.txt', 'r') as fp:
+    string = fp.read()
+
+```
+
 ### save and read dict to json file
 ```python
 # save
 import json
 
-with open('data.json', 'wb') as fp:
+with open('data.json', 'w') as fp:
     json.dump(data, fp, sort_keys=True, indent=4)
 
 # load

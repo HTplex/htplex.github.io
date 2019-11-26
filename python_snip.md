@@ -8,7 +8,10 @@ datetime.datetime.today().isoformat()
 
 ### Random
 
-```
+```python
+# random string that can forever never be same
+import time
+s = ('%06x' % int(time.time()*10000000)).upper()
 ```
 ### String
 String formatting

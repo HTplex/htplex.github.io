@@ -12,3 +12,7 @@ header {
   display: none;
 }
 ```
+check external ip
+```bash
+curl ifconfig.me
+```

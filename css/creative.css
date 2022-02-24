@@ -12,9 +12,9 @@ body {
   font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
 }
 hr {
-  border-color: rgba(0, 206, 206, 0.73);
+  border-color: rgba(0, 206, 206, 0.66);
   border-width: 5px;
-  max-width: 300px;
+  max-width: 240px;
 }
 hr.light {
   border-color: rgba(148, 141, 100, 0.73);
@@ -211,7 +211,7 @@ header .header-content .header-content-inner p {
   font-size: 16px;
   margin-bottom: 50px;
 }
-@media (min-width: 768px) {
+@media (min-width: 640px) {
   header {
     min-height: 100%;
   }
@@ -239,7 +239,7 @@ header .header-content .header-content-inner p {
   }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 639px) {
   header {
     min-height: 100%;
   }
@@ -257,7 +257,7 @@ header .header-content .header-content-inner p {
     margin-right: auto;
   }
   header .header-content .header-content-inner h1 {
-    font-size: 36px;
+    font-size: 28px;
   }
   header .header-content .header-content-inner p {
     font-size: 16px;
